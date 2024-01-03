@@ -201,6 +201,9 @@ aside{
 }
 ul{
     font-size: 25px;
+    margin: auto;
+    columns: 2;
+
 }
 
 body{
